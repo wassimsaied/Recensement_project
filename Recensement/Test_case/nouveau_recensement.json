@@ -1,0 +1,51 @@
+[
+	{
+		"postalCode" : 75008,
+		"city" : "Paris",
+		"street" : "Avenue des Champs-Élysées",
+		"number" : 14,
+		"persons" :
+		[
+			190047536595422,
+			292077545687230
+		]
+	},
+	
+	{
+		"postalCode" : 75008,
+		"city" : "Paris",
+		"street" : "Avenue Alain Savary",
+		"number" : 10,
+		"persons" :
+		[
+			190047536595422,
+			292077545687230
+		]
+	},
+	
+	{
+		"postalCode" : 75008,
+		"city" : "Paris",
+		"street" : "Rue des Dames",
+		"number" : 12,
+		"persons" :
+		[
+			1111111422,
+			29245687230
+		]
+	},
+	
+	
+	{
+		"postalCode" : 78840,
+		"city" : "lyon",
+		"street" : "Avenu 22",
+		"number" : 12,
+		"persons" :
+		[
+			1900473335422,
+			45687230
+
+		]
+	}
+]

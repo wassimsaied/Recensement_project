@@ -1,0 +1,24 @@
+[
+	{
+		"postalCode" : 75008,
+		"city" : "Paris",
+		"street" : "Avenue des Champs-Élysées",
+		"number" : 14,
+		"persons" :
+		[
+			190047536595422,
+			292077545687230
+		]
+	},
+	{
+		"postalCode" : 75008,
+		"city" : "Paris",
+		"street" : "Rue des Dames",
+		"number" : 12,
+		"persons" :
+		[
+			190047795422,
+			29245687230
+		]
+	},
+]
